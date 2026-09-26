@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 🎓 Master of Data Science @ RMIT University, Melbourne<br>📊 Passionate about Data Science, Machine Learning & Analytics<br>🐍 Python, SQL, Power BI & Cloud Technologies<br>🤖 Interested in AI/ML and real-world data solutions<br>☁️ Exploring Microsoft Azure & Data Engineering<br>🚀 Always learning, building and solving problems<br>
 
 
